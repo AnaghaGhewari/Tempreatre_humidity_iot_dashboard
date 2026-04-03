@@ -1,5 +1,6 @@
 # Tempreatre_humidity_iot_dashboard
 A dynamic Streamlit dashboard that visualizes real-time IoT sensor data with animations, smart alerts, and an adaptive user experience.
+Note - This dashboard uses simulated values...but can be integrated with ESP32 or Ardiuno.
 # 🌡️ Smart IoT Dashboard
 
 An interactive and visually engaging dashboard built using Streamlit to monitor real-time temperature and humidity data from an ESP32-based sensor system.
